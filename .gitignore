@@ -1,0 +1,32 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.lib
+
+# Build directories
+build/
+bin/
+obj/
+
+# Build output
+x64/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup or temporary files
+*~
+*.log
+*.vs/
