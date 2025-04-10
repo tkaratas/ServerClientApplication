@@ -1,2 +1,2 @@
 # ServerClientApplication
-C++ Server Client Appliction
+C++ Server Client Application
